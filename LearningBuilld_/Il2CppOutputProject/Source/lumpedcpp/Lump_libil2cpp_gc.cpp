@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "C:\MixedRealityLearning\Modulo1\LearningBuilld_\Il2CppOutputProject\IL2CPP\libil2cpp\gc\BoehmGC.cpp"
+#include "C:\MixedRealityLearning\Modulo1\LearningBuilld_\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GCHandle.cpp"
+#include "C:\MixedRealityLearning\Modulo1\LearningBuilld_\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GarbageCollector.cpp"
+#include "C:\MixedRealityLearning\Modulo1\LearningBuilld_\Il2CppOutputProject\IL2CPP\libil2cpp\gc\NullGC.cpp"
+#include "C:\MixedRealityLearning\Modulo1\LearningBuilld_\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrier.cpp"
+#include "C:\MixedRealityLearning\Modulo1\LearningBuilld_\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrierValidation.cpp"
